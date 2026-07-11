@@ -1,0 +1,6 @@
+.venv/
+.env
+kaggle.json
+data/raw/*
+data/processed/*
+__pycache__/
