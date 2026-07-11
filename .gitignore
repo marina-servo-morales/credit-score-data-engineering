@@ -1,6 +1,31 @@
-.venv/
+# Credenciais
 .env
+*.pem
 kaggle.json
+.aws/
+.kaggle/
+
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Dados
 data/raw/*
 data/processed/*
-__pycache__/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Databricks
+.databricks/
+
+# Sistema e IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
