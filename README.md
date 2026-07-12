@@ -10,6 +10,10 @@ O dataset utilizado foi o **Credit Score Classification**, disponibilizado no Ka
 
 ---
 
+![Arquitetura da solução](docs/architecture.png)
+
+---
+
 ## 1. Objetivo
 
 O objetivo deste projeto é construir um pipeline de dados capaz de:
